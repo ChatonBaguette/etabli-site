@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/event.BSSTbPL4.js","_astro/core.CwBWH9_g.js"])))=>i.map(i=>d[i]);
-import{r as e}from"./native.C_45Bcjc.js";import{t}from"./preload-helper.Bt74_CXO.js";var n={open:`etabli:open-files`,run:`etabli:run`,search:`etabli:palette`,sidebar:`etabli:toggle-sidebar`};e&&t(async()=>{let{listen:e}=await import(`./event.BSSTbPL4.js`);return{listen:e}},__vite__mapDeps([0,1])).then(({listen:e})=>e(`menu`,e=>{n[e.payload]&&window.dispatchEvent(new Event(n[e.payload]))}));
