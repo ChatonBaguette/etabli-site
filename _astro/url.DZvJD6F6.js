@@ -1,0 +1,1 @@
+var e=e=>`${`/etabli-site`.replace(/\/$/,``)}${e}`;export{e as t};
